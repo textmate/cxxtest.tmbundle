@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactName</key>
+	<string>Allan Odgaard</string>
+	<key>contactEmailRot13</key>
+	<string>gz-ohaqyrf@znpebzngrf.pbz</string>
+	<key>description</key>
+	<string>C++ unit testing framework (&lt;a href=&quot;http://cxxtest.sourceforge.net/guide.html&quot;&gt;manual&lt;/a&gt;)</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>747DCDDB-5D40-414B-A908-47C353D79DB2</string>
+			<string>6C9B6A78-A4CF-44E8-9192-B41AFDE748A4</string>
+			<string>E66F1C9C-EF5C-4D8E-99AC-90FA906F877E</string>
+			<string>------------------------------------</string>
+			<string>22DDD2B3-5901-446B-8236-65516E05923F</string>
+			<string>D2575BFF-8A9B-41C5-AA1C-483A3D86D0E3</string>
+			<string>1E71D2E4-F9DB-42BC-9515-C7093161F720</string>
+			<string>936C7E11-2F62-4472-A987-2F3EF307354E</string>
+			<string>B1DF9AAD-DE46-4147-A04A-7AE31EFD026E</string>
+			<string>6EAEF1FF-A66F-449E-958C-E15878C864AF</string>
+			<string>D2C9AD08-D194-4404-9898-1449EA7EA475</string>
+			<string>3581E22A-2210-41F5-A674-F2EA49B1B4C6</string>
+			<string>8F90962E-DD95-4F56-80A7-090CE1C4979A</string>
+			<string>4C3263F1-7F3D-45B3-8FA6-5191F6194EB0</string>
+			<string>0B07D003-7EE7-42F2-AFE1-D7AAE5043822</string>
+			<string>7E2B5D3E-3D12-4CD8-A619-A07525D34654</string>
+			<string>0CFE4E16-2B9A-4608-A3D1-C6EE3D1191EF</string>
+			<string>E59871F5-F8F1-4F11-8A8E-44006E70B554</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>CxxTest</string>
+	<key>uuid</key>
+	<string>9ADE27C6-4432-449C-9D4C-B5FEC8D33ACA</string>
+</dict>
+</plist>
