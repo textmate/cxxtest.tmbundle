@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_ASSERT_SAME_DATA(${1:x}, ${2:y}, ${3:size})</string>
+	<string>TS_ASSERT_SAME_DATA(${1:x}, ${2:y}, ${3:size});</string>
 	<key>name</key>
 	<string>Assert Same Data</string>
 	<key>scope</key>

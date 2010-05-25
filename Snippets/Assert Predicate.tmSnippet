@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_ASSERT_PREDICATE(${1:R}, ${2:x})</string>
+	<string>TS_ASSERT_PREDICATE(${1:R}, ${2:x});</string>
 	<key>name</key>
 	<string>Assert Predicate</string>
 	<key>scope</key>

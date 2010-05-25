@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_FAIL(${2:"${1:Test not implemented}"})</string>
+	<string>TS_FAIL(${2:"${1:Test not implemented}"});</string>
 	<key>name</key>
 	<string>Fail</string>
 	<key>scope</key>

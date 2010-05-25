@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_WARN(${2:"${1:TODO: Check invalid parameters}"})</string>
+	<string>TS_WARN(${2:"${1:TODO: Check invalid parameters}"});</string>
 	<key>name</key>
 	<string>Warn</string>
 	<key>scope</key>

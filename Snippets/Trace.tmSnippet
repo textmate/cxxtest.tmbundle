@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_TRACE(${1:errno})</string>
+	<string>TS_TRACE(${1:errno});</string>
 	<key>name</key>
 	<string>Trace</string>
 	<key>scope</key>

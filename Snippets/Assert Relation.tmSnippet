@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_ASSERT_RELATION(${1:R}, ${2:x}, ${3:y})</string>
+	<string>TS_ASSERT_RELATION(${1:R}, ${2:x}, ${3:y});</string>
 	<key>name</key>
 	<string>Assert Relation</string>
 	<key>scope</key>

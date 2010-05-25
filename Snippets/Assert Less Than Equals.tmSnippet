@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_ASSERT_LESS_THAN_EQUALS(${1:x}, ${2:y})</string>
+	<string>TS_ASSERT_LESS_THAN_EQUALS(${1:x}, ${2:y});</string>
 	<key>name</key>
 	<string>Assert Less Than Equals</string>
 	<key>scope</key>

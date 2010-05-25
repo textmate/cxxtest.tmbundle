@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_ASSERT_THROWS_ANYTHING(${1:expr})</string>
+	<string>TS_ASSERT_THROWS_ANYTHING(${1:expr});</string>
 	<key>name</key>
 	<string>Assert Throws Anything</string>
 	<key>scope</key>

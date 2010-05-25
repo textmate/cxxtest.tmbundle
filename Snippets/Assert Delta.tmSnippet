@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TS_ASSERT_DELTA(${1:sqrt(4)}, ${2:2.0}, ${3:0.0001})</string>
+	<string>TS_ASSERT_DELTA(${1:sqrt(4)}, ${2:2.0}, ${3:0.0001});</string>
 	<key>name</key>
 	<string>Assert Delta</string>
 	<key>scope</key>
