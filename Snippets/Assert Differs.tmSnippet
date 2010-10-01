@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Assert Differs</string>
 	<key>scope</key>
-	<string>source.c++.test, source.objc++.test</string>
+	<string>attr.test.cxxtest</string>
 	<key>tabTrigger</key>
 	<string>ad</string>
 	<key>uuid</key>
