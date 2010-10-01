@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Fail</string>
 	<key>scope</key>
-	<string>source.c++, source.objc++</string>
+	<string>source.c++.test, source.objc++.test</string>
 	<key>tabTrigger</key>
 	<string>fail</string>
 	<key>uuid</key>

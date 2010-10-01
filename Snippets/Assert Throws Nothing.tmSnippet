@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Assert Throws Nothing</string>
 	<key>scope</key>
-	<string>source.c++, source.objc++</string>
+	<string>source.c++.test, source.objc++.test</string>
 	<key>tabTrigger</key>
 	<string>atn</string>
 	<key>uuid</key>
